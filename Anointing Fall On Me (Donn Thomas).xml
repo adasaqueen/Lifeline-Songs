@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:04">
+  <properties>
+    <titles>
+      <title>Anointing Fall On Me</title>
+    </titles>
+    <copyright>1992 Paragon Music Corporation, Administered by Brentwood-Benson Music Publishing, Inc.</copyright>
+    <ccliNo>859126</ccliNo>
+    <authors>
+      <author>Donn Thomas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Anointing fall on me<br/>Anointing fall on me</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Let the power of the Holy Ghost<br/>Fall on me<br/>Anointing fall on me</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Touch my hands; my mouth and my heart.<br/>Fill my life, Lord;  every part.<br/>And let the power of the Holy Ghost, <br/>Fall on me.<br/>Anointing fall on me</lines>
+    </verse>
+  </lyrics>
+</song>

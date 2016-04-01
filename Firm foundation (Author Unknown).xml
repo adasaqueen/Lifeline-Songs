@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:12">
+  <properties>
+    <titles>
+      <title>Firm foundation</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jesus you're my firm foundation<br/>I know I can stand secure</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jesus you're my firm foundation<br/>I put my trust in your Holy Word (2x)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Firm Foundation!!<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

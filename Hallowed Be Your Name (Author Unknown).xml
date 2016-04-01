@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:19">
+  <properties>
+    <titles>
+      <title>Hallowed Be Your Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Holy, Holy<br/>Lord You’re worthy.<br/>And I'm honored to sing your Praise<br/>King of glory, God Almighty<br/>Hallowed be Your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All creation, every nation<br/>Has its being by Your word<br/>As Your will is done up in heaven<br/>Let it be done here on earth<br/>Let it be done on earth</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Chorus</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hallowed be Your name<br/>Hallowed be Your name<br/>Hallowed be Your name<br/>Lord and majesty<br/>Divine authority<br/>Hallowed be Your name</lines>
+    </verse>
+  </lyrics>
+</song>

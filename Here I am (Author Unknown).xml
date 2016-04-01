@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:21">
+  <properties>
+    <titles>
+      <title>Here I am</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am to worship</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Here I am to bow down,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Here I am to say that you're my God</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Your all together lovely</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All together worthy</lines>
+    </verse>
+    <verse name="v6">
+      <lines>All together wonderful to me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Light of the world<br/>You stepped down Into darkness <br/>Opened my eyes</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Let me see <br/>Beauty that made this heart adore you<br/>Hope of life spent with you</lines>
+    </verse>
+    <verse name="v9">
+      <lines>King of all days <br/>Also highly exalted</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Glorious in heaven above <br/>Humbly you came to the earth<br/>You created all for loves sake became poor</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:08">
+  <properties>
+    <titles>
+      <title>Carried Away 1</title>
+    </titles>
+    <verseOrder>v1 v2 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Holy is the arm that saved me<br/>Full of mercy, and love divine<br/>Reaching to the lowest valley<br/>Bringing peace to this heart of mine</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He has carried away my iniquities<br/>As far as the west from the east<br/>He has carried away my iniquities<br/>So I sing Hallelujah, I sing (x2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Worthy, is the lamb who saved me<br/>The Lamb was holy, The Lamb was slain<br/>Washed me, by the precious mountain<br/>White as snow is my crimson stain</lines>
+    </verse>
+  </lyrics>
+</song>

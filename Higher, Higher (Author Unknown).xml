@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:21">
+  <properties>
+    <titles>
+      <title>Higher, Higher</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Higher, higher<br/>Higher, higher, higher, higher<br/>Higher, higher<br/>Lift Jesus higher. (repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lower, lower<br/>Lower, lower, lower, lower<br/>Lower, lower<br/>Stomp Satan lower. (repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Super, super<br/>Super, super, super, super<br/>Super, super<br/>I’ve got supernatural power. (repeat)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Joy, joy <br/>Joy, joy, joy, joy<br/>Joy, joy<br/>I've got supernatural joy. (repeat)</lines>
+    </verse>
+  </lyrics>
+</song>

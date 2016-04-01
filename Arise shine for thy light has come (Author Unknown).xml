@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:04">
+  <properties>
+    <titles>
+      <title>Arise shine for thy light has come</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Arise Shine for The Light is Come,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The Glory of the Lord is risen,<br/>The Glory of the Lord is come,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>The Glory of the Lord is Risen Upon Thee.</lines>
+    </verse>
+  </lyrics>
+</song>

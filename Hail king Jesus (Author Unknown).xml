@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:18">
+  <properties>
+    <titles>
+      <title>Hail king Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1">
+      <lines>O Hail Emmanuel<br/>King of Kings<br/>Lord of Lords</lines>
+    </verse>
+    <verse name="b1">
+      <lines>And through all eternity<br/>I'm going to praise Him.<br/>And forever more<br/>I will reign with Him.</lines>
+    </verse>
+  </lyrics>
+</song>

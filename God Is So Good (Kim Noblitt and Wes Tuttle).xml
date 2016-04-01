@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:16">
+  <properties>
+    <titles>
+      <title>God Is So Good</title>
+    </titles>
+    <copyright>© 2000 Bridge Building Music, Inc./Bobby Noble Music(BMI)/New Spring Publishing, Inc./Statement Of F, Administered by BMG Music Publishing / Music Services</copyright>
+    <verseOrder>c1 i1 i1</verseOrder>
+    <ccliNo>3151680</ccliNo>
+    <authors>
+      <author>Kim Noblitt and Wes Tuttle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>God is So Good <br/>(2x)</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>God is So Good<br/>He's Good To Me</lines>
+    </verse>
+    <verse name="i1a">
+      <lines>(2x)</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>He's Good To Me</lines>
+    </verse>
+    <verse name="i1c">
+      <lines>He's So Good To Me</lines>
+    </verse>
+  </lyrics>
+</song>

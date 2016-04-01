@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:04">
+  <properties>
+    <titles>
+      <title>Appreciate PASTORS</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You answered God's call<br/>obeyed his command<br/>he sent you here<br/>we know you're in his hands<br/>Your message from the Word<br/>touches our soul<br/>We've seen your faithfulness<br/>and we want you to know<br/>Chorus<br/>Pastor, we love you<br/>We appreciate all your work for the Lord,<br/>Repeat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God sees the sacrifice<br/>you've made for Jesus<br/>and we know one day<br/>you'll hear your Father say<br/>"My child, well done, my child, I'm so proud of you"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pastor, we love you<br/>We appreciate all your work for the Lord,<br/>Repeat</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God sees the sacrifice<br/>you've made for Jesus<br/>you pray for the lost and God leads them to the cross<br/>and we know one day<br/> you'll hear your father say<br/>"My child, well done, my child, I'm so proud of you"</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:24">
+  <properties>
+    <titles>
+      <title>How Great Thou Art</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="o1a">
+      <lines>Consider all the worlds thy Hands have made<br/>I see the stars, I hear the rolling Thunder,<br/>Thy Power throughtout the Universe Displayed</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Then Sing  my Soul, My Savior God To Thee,<br/>How Great Thou Art, How Great Thou Art<br/>(2x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:06">
+  <properties>
+    <titles>
+      <title>Because I believe</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>There is nothing that I need<br/>That he won’t supply<br/>There is nothing that I need<br/>That he won’t provide<br/>Because I believe, yes I believe<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And so I say to the mountain<br/>Move<br/>And so I say to the mountain<br/>Get out of my way.<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Because I believe<br/>Yes I believe</lines>
+    </verse>
+  </lyrics>
+</song>

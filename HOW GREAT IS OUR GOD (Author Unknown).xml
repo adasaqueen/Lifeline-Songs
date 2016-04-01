@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:17">
+  <properties>
+    <titles>
+      <title>HOW GREAT IS OUR GOD</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HOW GREAT IS OUR GOD<br/>SAY WITH ME, HOW GREAT IS OUR GOD<br/>ALL WILL SEE HOW GREAT,<br/>HOW GREAT IS OUR GOD. (REPEAT)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>YOU HAVE A NAME ABOVE ALL NAMES<br/>YOU ARE WORTHY TO BE PRAISED<br/>AND MY HEART WILL SING<br/>HOW GREAT IS OUR GOD. (REPEAT)</lines>
+    </verse>
+  </lyrics>
+</song>

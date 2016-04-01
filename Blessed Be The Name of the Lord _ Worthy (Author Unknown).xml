@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:07">
+  <properties>
+    <titles>
+      <title>Blessed Be The Name of the Lord / Worthy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1a">
+      <lines>He is worthy to be praised and adored<br/>So we lift up holy hands in one accord<br/>Singing blessed be the name</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Blessed be the name of the Lord</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Worthy, You are worthy,<br/>King of kings, Lord of lords,<br/>You are worthy.</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>Worthy, You are worthy,<br/>King of kings, Lord of lords,<br/>I worship you.</lines>
+    </verse>
+    <verse name="b1e">
+      <lines>Holy, You are Holy,<br/>King of kings, Lord of lords,<br/>You are Holy,</lines>
+    </verse>
+    <verse name="b1f">
+      <lines>Holy, You are Holy,<br/>King of kings, Lord of lords,<br/>I worship you.</lines>
+    </verse>
+    <verse name="i1a">
+      <lines>Jesus, You are Jesus,<br/>King of kings, Lord of lords,<br/>You are Jesus.<br/>Jesus, You are Jesus,<br/>King of Kings, Lord of lords,<br/>I worship you.</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>Worthy, You are worthy,<br/>King of kings, Lord of lords,<br/>You are worthy.<br/>Worthy, you are worthy,<br/>King of kings, Lord of lords,<br/>I worship you.<br/>King of kings, Lord of lords,<br/>I worship you.*3</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>King of kings, Lord of lords,<br/>You are worthy.<br/>Worthy, You are worthy,<br/>King of kings, Lord of lords,<br/>I worship you.</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Worthy, You are worthy,<br/>King of kings, Lord of lords,<br/>You are worthy.<br/>Worthy, You are worthy,<br/>King of kings, Lord of lords,<br/>I worship you.</lines>
+    </verse>
+  </lyrics>
+</song>

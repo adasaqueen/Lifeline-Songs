@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:06">
+  <properties>
+    <titles>
+      <title>Bless the Lord-Matt Redman</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="b1a">
+      <lines>O my soul<br/>Worship His holy name<br/>Sing like never before<br/>O my soul<br/>I worship Your holy name</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>The sun comes up, it's a new day dawning<br/>It's time to sing Your song again</lines>
+    </verse>
+    <verse name="b1c">
+      <lines>Whatever may pass and whatever lies before me<br/>Let me be singing when the evening comes</lines>
+    </verse>
+    <verse name="b1d">
+      <lines>You're rich in love and You're slow to anger<br/>Your name is great and Your heart is kind</lines>
+    </verse>
+    <verse name="b1e">
+      <lines>For all Your goodness, I will keep on singing<br/>10,000 reasons for my heart to find</lines>
+    </verse>
+    <verse name="b1f">
+      <lines>And on that day when my strength is failing<br/>The end draws near and my time has come</lines>
+    </verse>
+    <verse name="b1g">
+      <lines>Still my soul will sing Your praise unending<br/>10,000 years and then forever more</lines>
+    </verse>
+    <verse name="b1h">
+      <lines>O my soul<br/>Worship His holy name<br/>Sing like never before O my soul</lines>
+    </verse>
+    <verse name="i1a">
+      <lines>I worship Your holy name<br/>I worship Your holy name</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>Sing like never before<br/>O my soul<br/>I worship Your holy name<br/>I worship Your holy name<br/>I worship Your holy name</lines>
+    </verse>
+  </lyrics>
+</song>

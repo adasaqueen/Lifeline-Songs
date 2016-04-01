@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:18">
+  <properties>
+    <titles>
+      <title>Hail Jesus</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hail Jesus your my King<br/>Your life frees me to sing<br/>I will praise you all my days<br/>You're perfect in all your ways</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hail Jesus you’re my Lord<br/>I will obey your word<br/>I want to see your kingdom come<br/>Not my will but yours be done</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glory, glory to the Lamb<br/>You take me into the land<br/>We will conquer in your name<br/>And proclaim that Jesus reigns</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hail, hail Lion of Judah<br/>How powerful you are<br/>Hail, hail Lion of Judah<br/>How wonderful you are<br/>How wonderful you are</lines>
+    </verse>
+  </lyrics>
+</song>

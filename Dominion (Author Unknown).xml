@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:10">
+  <properties>
+    <titles>
+      <title>Dominion</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Depression, you have to flee;</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You no longer have dominion over me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sickness, you have to flee;</lines>
+    </verse>
+    <verse name="v4">
+      <lines>No longer over, rule over me</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Poverty, you have to flee;</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>My sin, you have to flee;</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>Over me is love, over me is joy;</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>Over me is peace, over me is freedom;</lines>
+    </verse>
+  </lyrics>
+</song>

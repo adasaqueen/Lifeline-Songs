@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:09">
+  <properties>
+    <titles>
+      <title>Clothed in Majesty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>He's clothed in majesty<br/>He is on His throne<br/>The high and sublime God<br/>I will worship you</lines>
+    </verse>
+    <verse name="i1">
+      <lines>I will worship you<br/>I will worship you<br/>In Spirit and in truth</lines>
+    </verse>
+  </lyrics>
+</song>

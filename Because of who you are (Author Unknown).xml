@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:06">
+  <properties>
+    <titles>
+      <title>Because of who you are</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Because of who you are I give you glory<br/>Because of who you are I give you praise<br/>Because of who you are<br/>I will lift my voice and say</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Verse 2</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Lord I worship you because of who you are</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jehovah Jireh, my Provider<br/>Jehovah Nissi, Lord You reign in victory<br/>Jehovah Shalom, my Prince of Peace<br/>Lord I worship You, because of who You Are<br/>Lord I worship you because of who you are</lines>
+    </verse>
+  </lyrics>
+</song>

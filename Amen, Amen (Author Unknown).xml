@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:03">
+  <properties>
+    <titles>
+      <title>Amen, Amen</title>
+    </titles>
+    <verseOrder>v1 p1 v2 p1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Amen, Amen, blessings and glory</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wisdom, thanksgiving and honor</lines>
+    </verse>
+    <verse name="p1a">
+      <lines>Power and might be unto our God</lines>
+    </verse>
+    <verse name="p1b">
+      <lines>Forever and ever, Amen</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Amen, Amen, we bind the devil</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>We loose God's Spirit In this place</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>We speak in tongues, Satan is confused</lines>
+    </verse>
+  </lyrics>
+</song>

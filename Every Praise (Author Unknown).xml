@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:11">
+  <properties>
+    <titles>
+      <title>Every Praise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="e1a">
+      <lines>Every word of worship with one accord<br/>Every praise Every praise is to our God</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>Sing Hallelujah to Our God<br/>Glory  Hallelujah is due our God<br/>Every Praise Every Praise is to our God</lines>
+    </verse>
+    <verse name="e1c">
+      <lines>God my Saviour<br/>God my Healer<br/>God my deliverer<br/>Yes He is, Yes He is</lines>
+    </verse>
+  </lyrics>
+</song>

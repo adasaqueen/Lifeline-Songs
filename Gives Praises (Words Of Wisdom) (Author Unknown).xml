@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:14">
+  <properties>
+    <titles>
+      <title>Gives Praises (Words Of Wisdom)</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Give...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Give Praise...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Honor...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Glory...</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To The Father...</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Son...</lines>
+    </verse>
+    <verse name="v7">
+      <lines>And the Holy Spirit...</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Just Give Praise...</lines>
+    </verse>
+    <verse name="v9">
+      <lines>(Lift Your Voice...<br/> And Let It Be Heard....)</lines>
+    </verse>
+    <verse name="v10">
+      <lines>For Jesus Is Here...</lines>
+    </verse>
+    <verse name="v11">
+      <lines>So Praise Him...</lines>
+    </verse>
+    <verse name="v12">
+      <lines>For This Is a New Day...</lines>
+    </verse>
+    <verse name="v13">
+      <lines>A New Day For Blessings...</lines>
+    </verse>
+    <verse name="v14">
+      <lines>Healing...</lines>
+    </verse>
+    <verse name="v15">
+      <lines>And Everlasting Life...</lines>
+    </verse>
+    <verse name="v16">
+      <lines>So Give Him Praise...</lines>
+    </verse>
+  </lyrics>
+</song>

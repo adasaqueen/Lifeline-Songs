@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:13">
+  <properties>
+    <titles>
+      <title>For You Are Great!</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You Deserve The Glory, And The Honor;<br/>Lord We Lift Our Hearts In Worship, As We Lift Your Holy Name!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>For You Are Great!<br/>You Do Miracles So Great,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>There is No One Else Like You!<br/>(Repeat)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>There is No One Else Like You!</lines>
+    </verse>
+  </lyrics>
+</song>

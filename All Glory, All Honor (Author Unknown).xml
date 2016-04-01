@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:02">
+  <properties>
+    <titles>
+      <title>All Glory, All Honor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All Honor <br/>All Glory<br/>All Power to You</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Verse 2</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Holy Father We Worship You<br/>Precious Jesus Our Savior</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Holy Spirit We Wait on You (3x)</lines>
+    </verse>
+    <verse name="v2d">
+      <lines>For the Fire (2x)</lines>
+    </verse>
+  </lyrics>
+</song>

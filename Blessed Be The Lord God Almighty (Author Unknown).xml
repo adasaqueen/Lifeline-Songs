@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:07">
+  <properties>
+    <titles>
+      <title>Blessed Be The Lord God Almighty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Father In Heaven <br/>How We Love You <br/>We Lift Your Name <br/>In All The Earth.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>May Your Kingdom Be Established<br/>In Our Praises, As Your People Declare Your Mighty Works</lines>
+    </verse>
+    <verse name="b1a">
+      <lines>Who Was Is And Is And Is To Come!</lines>
+    </verse>
+    <verse name="b1b">
+      <lines>Blessed Be The Lord God Almighty, Who Reigns Forever More!</lines>
+    </verse>
+  </lyrics>
+</song>

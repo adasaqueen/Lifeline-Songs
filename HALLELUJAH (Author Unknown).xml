@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4" modifiedIn="OpenLP 2.4" modifiedDate="2016-03-31T23:19:17">
+  <properties>
+    <titles>
+      <title>HALLELUJAH</title>
+    </titles>
+    <verseOrder>v1 i1 i1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HALLELUJAH<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1a">
+      <lines>(Repeat)</lines>
+    </verse>
+    <verse name="i1b">
+      <lines>Lord We Worship You<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1c">
+      <lines>Lord We Thank You<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1d">
+      <lines>Lord We Praise You<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1e">
+      <lines>Lord We Love You<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1f">
+      <lines>We Praise You Jesus<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1g">
+      <lines>We Thank You Jesus<br/>(Repeat)</lines>
+    </verse>
+    <verse name="i1h">
+      <lines>We Love You Jesus<br/>(Repeat)</lines>
+    </verse>
+  </lyrics>
+</song>
